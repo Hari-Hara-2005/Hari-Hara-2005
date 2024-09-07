@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="[./thoughtworks-gif_dribbble.gif](https://miro.medium.com/v2/resize:fit:700/0*NgUtI3tYLhuq5Vy0.gif)" height="290px" align="right" />
+<img  src="https://miro.medium.com/v2/resize:fit:700/0*NgUtI3tYLhuq5Vy0.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
 
